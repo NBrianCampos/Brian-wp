@@ -9,3 +9,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: astra-child
 Template: astra
 */
+
+.astra-logo-svg{
+    width: 280px;
+}
+
+.ast-footer-copyright p{
+    font-family: 'Bebas Neue';
+}
+
+#astra-footer-menu{
+    font-family: 'Bebas Neue';
+}
